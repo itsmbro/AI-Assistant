@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.10.0
 openai==0.27.0
-speechrecognition
-pyttsx3
-pyaudio
+speechrecognition==3.8.1
+pyttsx3==2.90
+pyaudio==0.2.11
